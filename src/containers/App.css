@@ -5,9 +5,10 @@ h1 {
     font-family: 'Monoton', cursive;
     font-size: 8vh;
     font-weight: 1;
-    color: #0ccac4;
+    color: #ec0000;
     margin: 10px;
     padding: 0px;
+    text-shadow: 4px 4px 5px #000000;
 }
 
 @media only screen and (max-width: 680px) {

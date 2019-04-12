@@ -1,0 +1,18 @@
+.cardBg {
+    background: linear-gradient(to right, #009fff, #ec2f4b);
+}
+
+.nameBg{
+    color: #ec0000;
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: 6700;
+
+}
+
+.textBg {
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+    color: #ec0000;
+    text-shadow: 1px 2px 2px #000000;
+}
